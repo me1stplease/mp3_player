@@ -1,0 +1,7 @@
+Pygame
+    -Pygame is a Python wrapper module for the SDL multimedia library.
+     It contains python functions and classes that will allow you to use SDL’s support for playing cdroms, audio and video output, and keyboard, mouse and joystick input.
+
+tkinter
+    -The tkinter package (“Tk interface”) is the standard Python interface to the Tk GUI toolkit.
+     Both Tk and tkinter are available on most Unix platforms, as well as on Windows systems. 
